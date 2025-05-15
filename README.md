@@ -36,5 +36,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/santicevic/santicevic/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<hr>
