@@ -1,11 +1,3 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/santicevic/count.svg" alt="Visitor's Count" />
-  <img src="https://github.com/santicevic/santicevic/blob/main/0_jdBiV9fD6VSkNQsD.jpg" alt="OPOS">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Serg!;" />
-</h1>
-</div>
 
 ### Solana-focused full-stack developer with 5+ years of development experience and 3 years of building high-impact decentralized applications on Solana.
 
